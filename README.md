@@ -37,5 +37,5 @@ alerta(mensagem)//substituir "mensagem" por uma string
 
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-### Créditos
-[Fidel Silva Corneta](https://github.com/FidelSCorneta/projeto_v1)
+- criada a branch projeto_v1
+- projeto iniciado
