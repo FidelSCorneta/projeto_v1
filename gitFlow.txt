@@ -1,0 +1,14 @@
+Git Flow
+
+[] branch main : projeto está aqui
+        [] branch hotfix : correções imediatas após lançamento (temporária e possui versão 1.0.0-1 Tag)
+    [] branch dev (desenvolvimento) : teste e homologação
+        [] branch feature (funcionalidades) : temporária até ser mesclada ao desenvolvimento
+        [] branch release (lançamento) : temporária versão 1.0.0 Tag (exemplo)
+
+++++++++++++++++++++++
+
+main    1.0.0 | 1.0.1 | 1.0.2
+            hotfix 1.0.1-1 | 1.0.1-2 XXX Tag
+    dev 
+        release > feature XXX Tag
