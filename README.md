@@ -16,7 +16,7 @@ Projeto para ajudar alunos iniciantes na lógica de programação
 ### Como instalar
 - Instale o Visual Studio Code
 - Abra os exemplos em HTML em seu navegador WEB
-- Teste os exemplo no console de seu navegador  `CTRL+SHIFT+C`
+- Teste os exemplo no console de seu navegador `CTRL+SHIFT+C`
 
 ### Como utilizar
 ```javascript
@@ -37,5 +37,5 @@ alerta(mensagem)//substituir "mensagem" por uma string
 
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-- criada a branch projeto_v1
-- projeto iniciado
+### Créditos
+[Fidel Silva Corneta](https://github.com/FidelSCorneta/projeto_v1)
